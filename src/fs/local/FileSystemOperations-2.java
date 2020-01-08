@@ -1,9 +1,9 @@
-package linux.util.io;
+package fs.local;
 
 import java.io.*;
 
 
-public class FileSystemOperations {
+public class FileSystemOperations2 {
 	private static final float APP_VERSION = 0.02f;
 
 	/* package-private members */
