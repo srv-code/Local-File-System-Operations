@@ -32,7 +32,7 @@ public class FileSystemOperations2 {
 	 */
 	public static void main(String[] args) throws Exception {
 //		showDebugInfo = true;
-		FileSystemOperations op = new FileSystemOperations();
+		FileSystemOperations2 op = new FileSystemOperations2();
 		boolean checkNextOption;
 		int mainCommandOffset = 0; // main commands: fs commands
 
